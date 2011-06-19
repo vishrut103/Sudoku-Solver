@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //a
+=======
+//v 1.0.0
+>>>>>>> 8e0309dc11d91d26b563b98e6fec9aa99d9d3451
 public class SudokuSolver{
 	
 	//3D workspace for solving the sudoku
