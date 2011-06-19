@@ -1,3 +1,4 @@
+//v 1.0
 public class SudokuSolver{
 	
 	//3D workspace for solving the sudoku
